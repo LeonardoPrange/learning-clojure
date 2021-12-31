@@ -18,79 +18,8 @@
 clj꞉basics.core꞉>  ; Use `alt+enter` to evaluate
 ; Jack-in done.
 clj꞉basics.core꞉> 
-2
-clj꞉basics.core꞉> 
-; Syntax error compiling at (src/basics/circle_area.clj:10:1).
-; Unable to resolve symbol: circle-area in this context
-clj꞉basics.circle-area꞉> 
-; Syntax error compiling at (src/basics/circle_area.clj:10:1).
-; Unable to resolve symbol: circle-area in this context
-clj꞉basics.circle-area꞉> 
-; Syntax error compiling at (src/basics/circle_area.clj:10:1).
-; Unable to resolve symbol: circle-area in this context
-clj꞉basics.circle-area꞉> 
-; Syntax error compiling at (src/basics/circle_area.clj:9:1).
-; Unable to resolve symbol: circle-area in this context
-clj꞉basics.circle-area꞉> 
-; Syntax error compiling at (src/basics/circle_area.clj:9:1).
-; Unable to resolve symbol: circle-area in this context
-clj꞉basics.circle-area꞉> 
-; Syntax error compiling at (src/basics/circle_area.clj:7:1).
-; Unable to resolve symbol: circle-area in this context
-clj꞉basics.circle-area꞉> 
-; Syntax error compiling at (src/basics/circle_area.clj:7:1).
-; Unable to resolve symbol: circle-area in this context
-clj꞉basics.circle-area꞉> 
-; Syntax error compiling at (src/basics/circle_area.clj:5:1).
-; Unable to resolve symbol: greet in this context
-clj꞉basics.circle-area꞉> 
-2
-clj꞉basics.core꞉> 
-#'basics.circle-area/greet
-clj꞉basics.circle-area꞉> 
-"Hello, Leo"
-clj꞉basics.circle-area꞉> 
-; Syntax error compiling at (src/basics/circle_area.clj:6:1).
-; Unable to resolve symbol: area-circle in this context
-clj꞉basics.circle-area꞉> 
-; Syntax error compiling at (src/basics/circle_area.clj:6:1).
-; Unable to resolve symbol: area-circle in this context
-clj꞉basics.circle-area꞉> 
-; Syntax error compiling at (src/basics/circle_area.clj:6:1).
-; Unable to resolve symbol: areacircle in this context
-clj꞉basics.circle-area꞉> 
-"Hello, Leo"
-clj꞉basics.circle-area꞉> 
-; Syntax error compiling at (src/basics/circle_area.clj:6:1).
-; Unable to resolve symbol: area in this context
-clj꞉basics.circle-area꞉> 
-; Syntax error compiling at (src/basics/circle_area.clj:6:1).
-; Unable to resolve symbol: bla in this context
-clj꞉basics.circle-area꞉> 
-#'basics.circle-area/bla
-clj꞉basics.circle-area꞉> 
-"Hello, Leo"
-clj꞉basics.circle-area꞉> 
-#'basics.circle-area/area-circle
-clj꞉basics.circle-area꞉> 
-"Hello, Leo"
-clj꞉basics.circle-area꞉> 
-; Syntax error compiling at (test/basics/circle_area_test.clj:5:1).
-; Unable to resolve symbol: deftest in this context
-clj꞉basics.core-test꞉> 
-#'basics.circle-area/area-circle
-clj꞉basics.circle-area꞉> 
-12.56636
-clj꞉basics.circle-area꞉> 
-#'basics.circle-area/pi
-clj꞉basics.circle-area꞉> 
-#'basics.circle-area/area-circle
-clj꞉basics.circle-area꞉> 
-12.56636
-clj꞉basics.circle-area꞉> 
-"12.5664"
-clj꞉basics.circle-area꞉> 
-#'basics.circle-area/area-circle
-clj꞉basics.circle-area꞉> 
-12.5664
-clj꞉basics.circle-area꞉> 
+#'basics.consumption/consulate-consumption
+clj꞉basics.consumption꞉> 
+; Execution error (ClassCastException) at basics.consumption/consulate-consumption (form-init9642407422646786533.clj:5).
+; class java.lang.Long cannot be cast to class clojure.lang.IFn (java.lang.Long is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉basics.consumption꞉> 
