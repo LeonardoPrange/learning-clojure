@@ -23,3 +23,4 @@ clj꞉basics.consumption꞉> 
 ; Execution error (ClassCastException) at basics.consumption/consulate-consumption (form-init9642407422646786533.clj:5).
 ; class java.lang.Long cannot be cast to class clojure.lang.IFn (java.lang.Long is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
 clj꞉basics.consumption꞉> 
+; nREPL Connection was closed
